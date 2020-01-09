@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Global Math Game</string>
+    <string name="skip">Skip</string>
+    <string name="reset">Reset</string>
+    <string name="title">Math Game Score</string>
+    <string name="score">You score is </string>
+    <string name="javaMath">JAVA MATH GAME </string>
+    <string name="kotlinMath">KOTLIN MATH GAME </string>
+</resources>

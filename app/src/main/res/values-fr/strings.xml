@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jeu Global Math</string>
+    <string name="skip">Sauter</string>
+    <string name="reset">Réinitialiser</string>
+    <string name="title">Score de Jeu Mathématique</string>
+    <string name="score">Vous marquez </string>
+    <string name="javaMath">JAVA Juego de Matemáticas</string>
+    <string name="kotlinMath">KOTLIN Juego de Matemáticas </string>
+</resources>
